@@ -1,5 +1,7 @@
-
+<center>
+#  Quizzler
 ![Quizzler app](http://g.recordit.co/Myg9kX5r2y.gif)
+</center>
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Quizzler

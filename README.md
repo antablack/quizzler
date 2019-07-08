@@ -1,7 +1,8 @@
 <p align="center">
-#  Quizzler
-![Quizzler app](http://g.recordit.co/Myg9kX5r2y.gif)
+    <h1>Quizzler</h1>
+    <img src="http://g.recordit.co/Myg9kX5r2y.gif"/>
 </p>
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Quizzler
